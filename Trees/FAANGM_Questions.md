@@ -39,6 +39,10 @@ These problems have been asked multiple times by companies. Use this section to 
 4. **Kth Smallest Element in a BST** ([LeetCode 230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)) - Facebook, Amazon, Google
 5. **Serialize and Deserialize Binary Tree** ([LeetCode 297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)) - Google, Facebook, Amazon
 6. **Sum Root to Leaf Numbers** ([LeetCode 129](https://leetcode.com/problems/sum-root-to-leaf-numbers/)) - Microsoft, Apple, Google
+7. **Validate Binary Search Tree** ([LeetCode 98](https://leetcode.com/problems/validate-binary-search-tree/description/)) - Amazon, Google
+8. **Construct Binary Tree from Preorder and Inorder Traversal** ([LeetCode 105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)) - Amazon (Many Times)
+9.  **Invert Binary Tree** ([LeetCode 226](https://leetcode.com/problems/invert-binary-tree/)) - Google (Many Times) 
+
 
 ## Company-Specific Orders
 
